@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Fernanda
+-Profissão: Designer Grafico
+-Cidade: São Paulo
+-O que faz nas horas vaga: Leio, jogo, vejo filmes/séries e escrevo
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante, o curso tem uma boa didática e bem abrangente do que iremos usar no trabalho
+-Feedback sobre a plataforma de estudo da EBAC: É boa, no descktop. No celular possuo bastante problemas no player dos vídeos e isso me faz evitar usar no celular.
+
+Obrigado!!!
+
+
